@@ -46,9 +46,8 @@ Fine-tuned YOLOv8 on 8,500+ annotated images (94% mAP50). Built a smart parking 
 Chatbot that pulls and structures live data from the web to answer user queries in real time.
 🔗 [github.com/austinsajeev/Webscraping-Chatbot](https://github.com/austinsajeev/Webscraping-Chatbot)
 
-Eden Food Products — E-Commerce Web App — `HTML5` `Tailwind CSS` `JavaScript` `Chart.js` `OpenStreetMap API`
-Full-stack e-commerce solution for a local South Indian food business (Chapatti, Poori, Parotta). Features a responsive customer storefront with shopping cart, live delivery feasibility check via OpenStreetMap (Nominatim), COD & online payment checkout, bulk/subscription forms — plus a secure admin dashboard with revenue analytics, order management, and customer insights powered by Chart.js.
-🔗 [View Repository](https://github.com/austinsajeev/Full-Stack-Food-Ordering-Web-App)
+**Eden Food Products — E-Commerce Web App** — `HTML5` `Tailwind CSS` `JavaScript` `Chart.js` Full-stack e-commerce solution for a South Indian food business with a customer storefront, admin analytics dashboard, and live delivery check via OpenStreetMap. 🔗 [github.com/austinsajeev/Full-Stack-Food-Ordering-Web-App](https://github.com/austinsajeev/Full-Stack-Food-Ordering-Web-App)
+
 ---
 
 ### 🔧 Skills
