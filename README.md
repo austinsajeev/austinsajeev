@@ -10,9 +10,9 @@
 
 ### About me
 
-I'm a Computer Science student (AI/ML major, Cyber Security honours) at CHRIST University, Bengaluru, graduating 2027. I like building end-to-end systems — from **LLM-powered applications** using RAG and vector search, to **backend platforms** that process real data at scale. I've also spent two internships building malware detection and SOC tooling, which shapes how I think about reliability and failure modes in the systems I build.
+Computer Science student specializing in **Artificial Intelligence and Machine Learning**, with an Honours in **Cyber Security**, at CHRIST University, Bengaluru. Proficient in Python, Data Structures & Algorithms, backend development (FastAPI, Flask), and machine learning frameworks. I have hands-on experience building scalable software systems, malware detection engines, SOC dashboards, and LLM-based applications using RAG and vector search.
 
-Currently looking for **Software Engineering / AI-ML internship and full-time opportunities**.
+Seeking full-time and internship opportunities in **Software Engineering**, **AI/ML Development**, and **Cyber Security**.
 
 ---
 
