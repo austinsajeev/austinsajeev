@@ -213,18 +213,6 @@ A full-stack e-commerce platform developed for a South Indian food business, fea
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=austinsajeev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=austinsajeev&layout=compact&theme=tokyonight&hide_border=true" width="41%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=austinsajeev&theme=tokyonight&hide_border=true" width="65%" />
-</p>
-
----
 
 ## 🤝 Let's Connect
 
